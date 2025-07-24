@@ -1,2 +1,2 @@
-# ctf-writeups
+# CTF-Writeups
 CTF writeups
